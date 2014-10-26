@@ -2,7 +2,6 @@
   <artifact type="exploded-war" name="original:war exploded">
     <output-path>$PROJECT_DIR$/original/target/original-3.0</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="original/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="original" />
@@ -36,6 +35,7 @@
           <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.3.2" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="original/web/Web" />
     </root>
   </artifact>
 </component>

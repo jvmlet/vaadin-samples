@@ -8,3 +8,5 @@
 
 /original/target
 /spring-boot/target
+*.iws
+*.ipr
